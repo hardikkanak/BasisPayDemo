@@ -1,0 +1,2 @@
+include ':app', ':AndroidSDKVR4'
+rootProject.name='BasisPayDemo'
